@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/i2dE5VvBNxBw4/giphy.gif" width="300" height="whatever" align="right">
 
+[![Build Status](https://travis-ci.org/sasessw/lab08.svg?branch=master)](https://travis-ci.org/sasessw/lab08) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Laboratory work VIII
 

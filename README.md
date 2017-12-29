@@ -5,6 +5,7 @@
 
 Данная лабораторная работа посвещена изучению средств пакетирования на примере **CPack**
 
+
 ```ShellSession
 $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 ```

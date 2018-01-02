@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/i2dE5VvBNxBw4/giphy.gif" width="300" height="whatever" align="right">
 
-[![Build Status](https://travis-ci.org/sasessw/lab08.svg?branch=master)](https://travis-ci.org/sasessw/lab08) 
+[![Build Status](https://travis-ci.org/sasessw/lab09.svg?branch=master)](https://travis-ci.org/sasessw/lab09) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 ## Laboratory work VIII
 
@@ -13,7 +13,7 @@ $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 
 ## Tasks
 
-- [X] 1. Создать публичный репозиторий с названием **lab08** на сервисе **GitHub**
+- [X] 1. Создать публичный репозиторий с названием **lab09** на сервисе **GitHub**
 - [X] 2. Выполнить инструкцию учебного материала
 - [X] 3. Ознакомиться со ссылками учебного материала
 - [X] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
@@ -27,10 +27,10 @@ $ alias edit=<subl>
 ```
 
 ```ShellSession
-$ git clone https://github.com/${GITHUB_USERNAME}/lab07 lab08
-$ cd lab08
+$ git clone https://github.com/${GITHUB_USERNAME}/lab07 lab09
+$ cd lab09
 $ git remote remove origin
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab08
+$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab09
 ```
 
 ```ShellSession
@@ -129,7 +129,7 @@ EOF
 ```
 
 ```ShellSession
-$ sed -i 's/lab07/lab08/g' README.md
+$ sed -i 's/lab07/lab09/g' README.md
 ```
 
 ```ShellSession
